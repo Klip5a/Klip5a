@@ -17,3 +17,7 @@
 ## Свяжитесь со мной
 
 - Телеграм: [@Klip5a](https://t.me/Klip5a)
+
+## Статистика GitHub
+
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=klip5a&show_icons=true&theme=dark)](https://github.com/klip5a)
