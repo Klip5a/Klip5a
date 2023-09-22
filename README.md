@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Klip5a
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Привет, я Максим! 👋
 
-<!---
-Klip5a/Klip5a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Обо мне
+
+- 🌱 Я учусь программированию и стараюсь стать Fullstack разработчиком.
+- 💼 В настоящее время активно работаю над проектом **MemeForge**, веб-приложением для создания мемов.
+- 🚀 Моя цель - двигать инновации и менять консервативность в мире технологий.
+
+## Мои технологии
+
+Я работаю с различными технологиями, включая:
+
+- JavaScript
+- React
+- TypeScript
+
+## Свяжитесь со мной
+
+- Телеграм: [@Klip5a](https://t.me/Klip5a)
