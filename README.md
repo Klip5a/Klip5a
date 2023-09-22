@@ -20,4 +20,5 @@
 
 ## Статистика GitHub
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klip5a&layout=compact)
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=klip5a&show_icons=true&theme=dark)](https://github.com/klip5a)
